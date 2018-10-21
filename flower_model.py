@@ -43,8 +43,6 @@ labels = labels1 + labels2
   
 images = np.array(images)
 
-
-
 i=0
 labelsTemp=[]
 for label in labels:
